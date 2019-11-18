@@ -13,3 +13,4 @@ Provides a startup readme for your own react to-do application
 1.  The application stores the users todo's in local storage
 
 ## ToDo List design:
+![ToDo List design](https://www.paratroopers.dev/img/IMG_20191118_150016.jpg)
